@@ -11,7 +11,7 @@ This project I build for SPM , and this is about user management system with all
 Technologies:-
 PHP,CSS
 
-<u>How to get Started
+How to get Started
 
 Pre-Requisites
 
