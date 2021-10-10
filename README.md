@@ -15,7 +15,7 @@ How to get Started
 
 Pre-Requisites
 
-XAMPP server
+XAMPP
 
 Procedure of setting up prerequisites and run the project
 
