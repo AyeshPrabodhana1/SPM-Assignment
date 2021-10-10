@@ -1,7 +1,7 @@
 ## Group ID :- 2021S2_REG_PR_WE_01
 # SPM-Assignemnt - User Management System
 
-##Group Details:-
+#Group Details:-
 
 ##Name :- Dias A.M.A.P. , Student ID :- IT17045940 , UserName:- AyeshPrabodhana1
 
