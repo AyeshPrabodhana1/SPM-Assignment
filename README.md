@@ -19,8 +19,10 @@ XAMPP
 
 Procedure of setting up prerequisites and run the project
 
-1.)turn on Apache and My-SQL servers
+1.)Turn on Apache and My-SQL servers
 
 2.)Create a Database call "crud-ajax" 
 
-3.)run the project
+3.)Import the SQL Script
+
+4.)Run the project
