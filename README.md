@@ -1,18 +1,21 @@
 ## Group ID :- 2021S2_REG_PR_WE_01
 # SPM-Assignemnt - User Management System
 
-#Group Details:-
+Group Details:-
+Name :- Dias A.M.A.P. , Student ID :- IT17045940 , UserName:- AyeshPrabodhana1
 
-##Name :- Dias A.M.A.P. , Student ID :- IT17045940 , UserName:- AyeshPrabodhana1
+Project description:-
+This project I build for SPM , and this is about user management system with all crud operations and report generate function
 
-##Project description:-
+Technologies:-
+PHP,CSS
 
-##This project I build for SPM , and this is about user management system with all crud operations and report generate function
+How to get Started
 
-##Technologies:-
+Pre-Requisites
+XAMPP server
 
-##PHP,CSS
-
-#How to get Started
-##Pre-Requisites
-##X
+Procedure of setting up prerequisites and run the project
+1.)turn on Apache and My-SQL servers
+2.)Create a Database call "crud-ajax" 
+3.)run the project
