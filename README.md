@@ -13,9 +13,11 @@ PHP,CSS
 How to get Started
 
 Pre-Requisites
+
 XAMPP server
 
 Procedure of setting up prerequisites and run the project
+
 1.)turn on Apache and My-SQL servers
 2.)Create a Database call "crud-ajax" 
 3.)run the project
